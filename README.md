@@ -1,4 +1,4 @@
-## PS2-HLTE
+## PS2-HLTE-BETA
 
 - The ability to extract .bmp files from the .dol file.
 - exports all textures with correct names.
